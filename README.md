@@ -54,3 +54,4 @@ This project was developed for a hackathon. Contributions and suggestions are we
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+...
